@@ -3,7 +3,6 @@
 ![]https://images.cooltext.com/5643149.png
 
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5643149.png" width="461" height="91" alt="Carlos Oroz" /></a>
-<br />Image by <a href="https://cooltext.com">Cool Text: Free Logos and Buttons</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=4293329235">Create An Image Just Like This</a>
 
 | HORA | LUNES | MARTES | MIERCOLES | JUEVES | VIERNES |
 |------|-------|--------|-----------|--------|---------|
