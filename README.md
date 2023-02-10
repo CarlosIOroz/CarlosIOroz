@@ -5,9 +5,10 @@
 ### Hola 👋
 
 Soy Carlos Ivan Oroz Quiroz 😀
--Estudio ingenieria en sistemas computacionales
--Megustan los videojuegos 
--Me gusta ver series
+
+- Estudio ingenieria en sistemas computacionales
+- Me gustan los videojuegos 
+- Me gusta ver series
 
 
 Repositorio hecho para materia de sistemas programables
