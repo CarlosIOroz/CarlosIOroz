@@ -11,6 +11,12 @@
 |  4PM |  91L6 |  9301  |    91L6   |  9301  |         |
 |  5PM |  LCLB |  91L2  |    LCLB   |  91L2  |         |
 
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
 <!--
 **CarlosIOroz/CarlosIOroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
