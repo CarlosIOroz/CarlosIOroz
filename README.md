@@ -1,8 +1,16 @@
-### Hola 👋
-
-
 
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5643151.png" width="867" height="76" alt="Carlos Ivan Oroz Quiroz" /></a>
+
+
+### Hola 👋
+
+Soy Carlos Ivan Oroz Quiroz 😀
+-Estudio ingenieria en sistemas computacionales
+-Megustan los videojuegos 
+-Me gusta ver series
+
+
+Repositorio hecho para materia de sistemas programables
 
 | HORA | LUNES | MARTES | MIERCOLES | JUEVES | VIERNES |
 |------|-------|--------|-----------|--------|---------|
