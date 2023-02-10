@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+| HORA | LUNES | MARTES | MIERCOLES | JUEVES | VIERNES |
+|------|-------|--------|-----------|--------|---------|
+|  2PM |  91L4 |  9308  |    91L4   |  9308  |   9308  |
+|  3PM |  LCLB |  LCLB  |    0311   |  0311  |   LCLB  |
+|  4PM |  91L6 |  9301  |    91L6   |  9301  |         |
+|  5PM |  LCLB |  91L2  |    LCLB   |  91L2  |         |
+
 <!--
 **CarlosIOroz/CarlosIOroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
