@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![]https://images.cooltext.com/5643149.png
+
 
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5643149.png" width="461" height="91" alt="Carlos Oroz" /></a>
 
