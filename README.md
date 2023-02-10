@@ -2,7 +2,7 @@
 
 
 
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5643149.png" width="461" height="91" alt="Carlos Oroz" /></a>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5643151.png" width="867" height="76" alt="Carlos Ivan Oroz Quiroz" /></a>
 
 | HORA | LUNES | MARTES | MIERCOLES | JUEVES | VIERNES |
 |------|-------|--------|-----------|--------|---------|
